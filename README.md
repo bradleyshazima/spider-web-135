@@ -22,43 +22,87 @@ I enjoy turning complex problems into clean, intuitive, and interactive solution
 
 ### 💻 Frontend
 
-<div style="display: flex; gap: 10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50" height="50" style="background:white; border-radius:8px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50"/>
+<div style="display: flex; flex-wrap: wrap; gap: 12px;">
+  <div style="background:#131313; border-radius:12px; width:60px; height:60px; display:flex; align-items:center; justify-content:center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" height="30"/>
+  </div>
+  <div style="background:#131313; border-radius:12px; width:60px; height:60px; display:flex; align-items:center; justify-content:center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="30" height="30" style="background:white; border-radius:6px;"/>
+  </div>
+  <div style="background:#131313; border-radius:12px; width:60px; height:60px; display:flex; align-items:center; justify-content:center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="30" height="30"/>
+  </div>
+  <div style="background:#131313; border-radius:12px; width:60px; height:60px; display:flex; align-items:center; justify-content:center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" height="30"/>
+  </div>
+  <div style="background:#131313; border-radius:12px; width:60px; height:60px; display:flex; align-items:center; justify-content:center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="30" height="30"/>
+  </div>
+  <div style="background:#131313; border-radius:12px; width:60px; height:60px; display:flex; align-items:center; justify-content:center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" height="30"/>
+  </div>
+  <div style="background:#131313; border-radius:12px; width:60px; height:60px; display:flex; align-items:center; justify-content:center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" height="30"/>
+  </div>
 </div>
 
 ### 🔧 Backend
 
-<div style="display: flex; gap: 10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="50" height="50"/>
+<div style="display: flex; flex-wrap: wrap; gap: 12px; margin-top: 10px;">
+  <div style="background:#131313; border-radius:12px; width:60px; height:60px; display:flex; align-items:center; justify-content:center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="30" height="30"/>
+  </div>
+  <div style="background:#131313; border-radius:12px; width:60px; height:60px; display:flex; align-items:center; justify-content:center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="30" height="30"/>
+  </div>
+  <div style="background:#131313; border-radius:12px; width:60px; height:60px; display:flex; align-items:center; justify-content:center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" height="30"/>
+  </div>
+  <div style="background:#131313; border-radius:12px; width:60px; height:60px; display:flex; align-items:center; justify-content:center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="30" height="30"/>
+  </div>
 </div>
 
 ### 📱 Mobile & Cloud
 
-<div style="display: flex; gap: 10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="50" height="50"/>
+<div style="display: flex; flex-wrap: wrap; gap: 12px; margin-top: 10px;">
+  <div style="background:#131313; border-radius:12px; width:60px; height:60px; display:flex; align-items:center; justify-content:center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="30" height="30"/>
+  </div>
+  <div style="background:#131313; border-radius:12px; width:60px; height:60px; display:flex; align-items:center; justify-content:center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="30" height="30"/>
+  </div>
 </div>
 
 ### ⚙️ Tools
 
-<div style="display: flex; gap: 10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50"/>
+<div style="display: flex; flex-wrap: wrap; gap: 12px; margin-top: 10px;">
+  <div style="background:#131313; border-radius:12px; width:60px; height:60px; display:flex; align-items:center; justify-content:center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" height="30"/>
+  </div>
+  <div style="background:#131313; border-radius:12px; width:60px; height:60px; display:flex; align-items:center; justify-content:center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" height="30"/>
+  </div>
+  <div style="background:#131313; border-radius:12px; width:60px; height:60px; display:flex; align-items:center; justify-content:center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30" height="30"/>
+  </div>
 </div>
 
 </div>
 
 ---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bradleyshazima&show_icons=true&theme=github_dark&count_private=true&hide_border=true&hide_title=true" width="450"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bradleyshazima&theme=github-dark&hide_border=true" width="450"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bradleyshazima&theme=github_dark" width="900" />
+</p>
+
 
 ## 🔥 Featured Projects
 
