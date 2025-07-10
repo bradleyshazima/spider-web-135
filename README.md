@@ -22,7 +22,7 @@ I enjoy turning complex problems into clean, intuitive, and interactive solution
 
 ### 💻 Frontend
 
-<div style="display: flex; flex-wrap: wrap; gap: 12px;">
+<div style="display: flex; flex-wrap: nowrap; gap: 12px;">
   <div style="background:#131313; border-radius:12px; width:60px; height:60px; display:flex; align-items:center; justify-content:center;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" height="30"/>
   </div>
