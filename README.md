@@ -87,19 +87,10 @@ I'm also currently learning **Flutter** to build cross-platform mobile apps and 
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=shazimabradley&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shazimabradley&layout=compact&theme=radical" />
-</p>
-
----
-
 ### 🤝 Let's Connect
 
-* 🔗 [LinkedIn](https://linkedin.com/in/bradleyshazima)
+* 🔗 [LinkedIn](https://www.linkedin.com/in/bradley-shazima-97bb90246/)
 * 📫 Email: [bradleyshazima@gmail.com](mailto:bradleyshazima@gmail.com)
-* 🌐 Portfolio: [shazima.dev](https://shazima.dev)
+* 🌐 Portfolio: [shazima.dev](https://bradleyshazima-portfolio.onrender.com/)
 
 If you like what you see, don’t forget to ⭐️ this repo on GitHub!
