@@ -22,7 +22,7 @@ I enjoy turning complex problems into clean, intuitive, and interactive solution
 
 ### 💻 Frontend
 
-<div style="display: flex; flex-wrap: nowrap; gap: 12px;">
+<div style="display: flex; overflow-x: auto; gap: 20px; padding-bottom: 10px;">
   <div style="background:#131313; border-radius:12px; width:60px; height:60px; display:flex; align-items:center; justify-content:center;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" height="30"/>
   </div>
@@ -48,7 +48,7 @@ I enjoy turning complex problems into clean, intuitive, and interactive solution
 
 ### 🔧 Backend
 
-<div style="display: flex; flex-wrap: wrap; gap: 12px; margin-top: 10px;">
+<div style="display: flex; flex-wrap: wrap; gap: 20px; margin-top: 10px;">
   <div style="background:#131313; border-radius:12px; width:60px; height:60px; display:flex; align-items:center; justify-content:center;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="30" height="30"/>
   </div>
@@ -65,7 +65,7 @@ I enjoy turning complex problems into clean, intuitive, and interactive solution
 
 ### 📱 Mobile & Cloud
 
-<div style="display: flex; flex-wrap: wrap; gap: 12px; margin-top: 10px;">
+<div style="display: flex; flex-wrap: wrap; gap: 20px; margin-top: 10px;">
   <div style="background:#131313; border-radius:12px; width:60px; height:60px; display:flex; align-items:center; justify-content:center;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="30" height="30"/>
   </div>
@@ -76,7 +76,7 @@ I enjoy turning complex problems into clean, intuitive, and interactive solution
 
 ### ⚙️ Tools
 
-<div style="display: flex; flex-wrap: wrap; gap: 12px; margin-top: 10px;">
+<div style="display: flex; flex-wrap: wrap; gap: 20px; margin-top: 10px;">
   <div style="background:#131313; border-radius:12px; width:60px; height:60px; display:flex; align-items:center; justify-content:center;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" height="30"/>
   </div>
@@ -86,8 +86,6 @@ I enjoy turning complex problems into clean, intuitive, and interactive solution
   <div style="background:#131313; border-radius:12px; width:60px; height:60px; display:flex; align-items:center; justify-content:center;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30" height="30"/>
   </div>
-</div>
-
 </div>
 
 ---
