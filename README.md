@@ -1,96 +1,104 @@
-## 👨‍💻 Bradley Shazima — Software Developer
+<div align="center">
 
-> Final Year BSc Applied Computing Student at KCA University | Web & Mobile Developer | Passionate about UI/UX, animations, and solving real-world problems with code.
+# <span style="font-size:3rem; font-weight:bold; font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif">Bradley Shazima — Software Developer</span>
 
----
+🚀 Frontend Specialist | 🌐 Full Stack Engineer | 🎨 UI/UX Enthusiast | 📱 Mobile Developer
 
-### 🚀 About Me
-
-I’m a Nairobi-based full-stack software developer with a passion for crafting interactive, responsive, and high-performance web applications. Currently in my final year at KCA University, I’ve built real-world projects using modern technologies like React, Django, Firebase, and Express. I enjoy working with animation libraries like Framer Motion and building intuitive UIs with Tailwind CSS.
-
-I'm also currently learning **Flutter** to build cross-platform mobile apps and expanding my cloud/backend skills.
+</div>
 
 ---
 
-### 🧰 Tech Stack & Tools
+## 🧠 About Me
 
-#### Frontend:
+I'm a highly skilled full-stack software developer based in Nairobi, Kenya. I specialize in building fast, interactive, and scalable web and mobile applications. I’ve delivered responsive websites, immersive user experiences, and business-critical tools using modern web stacks like **React**, **Next.js**, **Tailwind CSS**, **Django**, **Firebase**, and **Express**.
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" width="40" height="40"/>
-</p>
-
-#### Backend:
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" height="40"/>
-</p>
-
-#### Mobile & Cloud:
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40"/>
-</p>
-
-#### Tools:
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40" height="40"/>
-</p>
+I enjoy turning complex problems into clean, intuitive, and interactive solutions. Whether it’s frontend polish, backend logic, or integrating third-party APIs — I handle it all with attention to detail. I’m currently expanding my skills with **Flutter** to build robust cross-platform mobile apps.
 
 ---
 
-### 📌 Featured Projects
+## 🛠️ Tech Stack
 
-#### 🌤️ Liquid Weather — Immersive Weather App
+<div align="left">
 
-> An animated weather app that visualizes real-time weather across major cities with animated transitions, live background changes, and dynamic advice based on weather icons.
+### 💻 Frontend
 
-* 🌍 Built with **React + Vite**
-* 🎞️ Powered by **Framer Motion** for transitions
-* 🌐 Fetches data from **OpenWeather API**
-* ✨ Clean, modern UI with **Tailwind CSS**
+<div style="display: flex; gap: 10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50" height="50" style="background:white; border-radius:8px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50"/>
+</div>
+
+### 🔧 Backend
+
+<div style="display: flex; gap: 10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="50" height="50"/>
+</div>
+
+### 📱 Mobile & Cloud
+
+<div style="display: flex; gap: 10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="50" height="50"/>
+</div>
+
+### ⚙️ Tools
+
+<div style="display: flex; gap: 10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50"/>
+</div>
+
+</div>
+
+---
+
+## 🔥 Featured Projects
+
+### 🌤️ **Liquid Weather**
+
+> Animated weather app with scroll-based transitions, city transitions, live data from OpenWeather API, and responsive UI.
+
+* Stack: **React + Vite + Tailwind + Framer Motion**
+* Features: Zoom animations, city-based advice, draggable UI components, and delayed transitions.
 
 [🔗 Live Site](https://weather-app-bradley.netlify.app/) | [💻 GitHub](https://github.com/bradleyshazima/weather)
 
-<p align="left">
-  <img src="https://res.cloudinary.com/bradley-cdn/image/upload/v1752130413/Weather_10.07.2025_08_21_m3txpc.png" alt="Weather App Screenshot" width="500" />
+<p align="center">
+  <img src="https://res.cloudinary.com/bradley-cdn/image/upload/v1752130413/Weather_10.07.2025_08_21_m3txpc.png" width="500" />
 </p>
 
 ---
 
-#### Underground Rapper
+### 🎤 **Underground Rapper**
 
-> A sleek artist EPK website. Designed to be visually appealing and interactive with responsive layout.
+> Personal artist website with music embeds, responsive design, and bold visuals.
 
-* ⚛️ Built with **React**, **Tailwind CSS**
-* 📄 Artsist profile and music links intergrated
-* 💡 Inspired by modern design portfolios and dev trends
+* Stack: **React + Tailwind CSS**
+* Features: Bio, embedded tracks, YouTube videos, and merch sections.
 
-[🔗 Live Site](https://shazima.dev](https://acense.netlify.app/)) | [💻 GitHub](https://github.com/bradleyshazima/undergroundRapper)
+[🔗 Live Site](https://acense.netlify.app/) | [💻 GitHub](https://github.com/bradleyshazima/undergroundRapper)
 
-<p align="left">
-  <img src="https://res.cloudinary.com/bradley-cdn/image/upload/v1747901283/underground_bilc2n.png" alt="EPK Screenshot" width="500" />
+<p align="center">
+  <img src="https://res.cloudinary.com/bradley-cdn/image/upload/v1747901283/underground_bilc2n.png" width="500" />
 </p>
 
 ---
 
-### 🤝 Let's Connect
+## 📣 Let’s Connect
 
-* 🔗 [LinkedIn](https://www.linkedin.com/in/bradley-shazima-97bb90246/)
-* 📫 Email: [bradleyshazima@gmail.com](mailto:bradleyshazima@gmail.com)
-* 🌐 Portfolio: [Bradley-Shazima.com](https://bradleyshazima-portfolio.onrender.com/)
+* [LinkedIn](https://www.linkedin.com/in/bradley-shazima-97bb90246/)
+* [Email](mailto:bradleyshazima@gmail.com)
+* [Portfolio](https://bradleyshazima-portfolio.onrender.com/)
+* [GitHub](https://github.com/bradleyshazima)
 
-If you like what you see, don’t forget to ⭐️ this repo on GitHub!
+---
+
+> ⭐ If you like what you see, star my repositories and let’s build together!
