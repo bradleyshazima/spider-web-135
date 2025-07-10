@@ -79,7 +79,7 @@ I'm also currently learning **Flutter** to build cross-platform mobile apps and 
 * 📄 Artsist profile and music links intergrated
 * 💡 Inspired by modern design portfolios and dev trends
 
-[🔗 Live Site]([https://shazima.dev](https://acense.netlify.app/)) | [💻 GitHub](https://github.com/bradleyshazima/undergroundRapper)
+[🔗 Live Site](https://shazima.dev](https://acense.netlify.app/)) | [💻 GitHub](https://github.com/bradleyshazima/undergroundRapper)
 
 <p align="left">
   <img src="https://res.cloudinary.com/bradley-cdn/image/upload/v1747901283/underground_bilc2n.png" alt="EPK Screenshot" width="500" />
@@ -91,6 +91,6 @@ I'm also currently learning **Flutter** to build cross-platform mobile apps and 
 
 * 🔗 [LinkedIn](https://www.linkedin.com/in/bradley-shazima-97bb90246/)
 * 📫 Email: [bradleyshazima@gmail.com](mailto:bradleyshazima@gmail.com)
-* 🌐 Portfolio: [shazima.dev](https://bradleyshazima-portfolio.onrender.com/)
+* 🌐 Portfolio: [Bradley-Shazima.com](https://bradleyshazima-portfolio.onrender.com/)
 
 If you like what you see, don’t forget to ⭐️ this repo on GitHub!
