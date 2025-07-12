@@ -1,8 +1,8 @@
 <div align="center">
 
-# <span style="font-size:3rem; font-weight:bold; font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif">Bradley Shazima — Software Developer</span>
+# <span style="font-size:3rem; font-weight:bold; font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif">Bradley Shazima — Freelance Web Developer</span>
 
-🚀 Frontend Specialist | 🌐 Full Stack Engineer | 🎨 UI/UX Enthusiast | 📱 Mobile Developer
+🚀 Frontend Specialist | 🌐 Full Stack Engineer | 🎨 UI/UX Enthusiast
 
 </div>
 
@@ -10,7 +10,7 @@
 
 ## 🧠 About Me
 
-I'm a highly skilled full-stack software developer based in Nairobi, Kenya. I specialize in building fast, interactive, and scalable web and mobile applications. I’ve delivered responsive websites, immersive user experiences, and business-critical tools using modern web stacks like **React**, **Next.js**, **Tailwind CSS**, **Django**, **Firebase**, and **Express**.
+I'm a highly skilled full-stack web developer based in Nairobi, Kenya. I specialize in building fast, interactive, and scalable web and mobile applications. I’ve delivered responsive websites, immersive user experiences, and business-critical tools using modern web stacks like **React**, **Next.js**, **Tailwind CSS**, **Django**, **Firebase**, and **Express**.
 
 I enjoy turning complex problems into clean, intuitive, and interactive solutions. Whether it’s frontend polish, backend logic, or integrating third-party APIs — I handle it all with attention to detail. I’m currently expanding my skills with **Flutter** to build robust cross-platform mobile apps.
 
@@ -63,16 +63,6 @@ I enjoy turning complex problems into clean, intuitive, and interactive solution
   </div>
 </div>
 
-### 📱 Mobile & Cloud
-
-<div style="display: flex; flex-wrap: wrap; gap: 20px; margin-top: 10px;">
-  <div style="background:#131313; border-radius:12px; width:60px; height:60px; display:flex; align-items:center; justify-content:center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="30" height="30"/>
-  </div>
-  <div style="background:#131313; border-radius:12px; width:60px; height:60px; display:flex; align-items:center; justify-content:center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="30" height="30"/>
-  </div>
-</div>
 
 ### ⚙️ Tools
 
